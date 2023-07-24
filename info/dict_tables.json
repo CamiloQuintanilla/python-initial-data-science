@@ -1,0 +1,402 @@
+{
+    "Grupo A": [
+        {
+            "Pos": 1,
+            "Team": "Netherlands",
+            "Pld": 3,
+            "W": 2,
+            "D": 1,
+            "L": 0,
+            "GF": 5,
+            "GA": 1,
+            "GD": "+4",
+            "Pts": 7
+        },
+        {
+            "Pos": 2,
+            "Team": "Senegal",
+            "Pld": 3,
+            "W": 2,
+            "D": 0,
+            "L": 1,
+            "GF": 5,
+            "GA": 4,
+            "GD": "+1",
+            "Pts": 6
+        },
+        {
+            "Pos": 3,
+            "Team": "Ecuador",
+            "Pld": 3,
+            "W": 1,
+            "D": 1,
+            "L": 1,
+            "GF": 4,
+            "GA": 3,
+            "GD": "+1",
+            "Pts": 4
+        },
+        {
+            "Pos": 4,
+            "Team": "Qatar (H)",
+            "Pld": 3,
+            "W": 0,
+            "D": 0,
+            "L": 3,
+            "GF": 1,
+            "GA": 7,
+            "GD": "\u22126",
+            "Pts": 0
+        }
+    ],
+    "Grupo B": [
+        {
+            "Pos": 1,
+            "Team": "England",
+            "Pld": 3,
+            "W": 2,
+            "D": 1,
+            "L": 0,
+            "GF": 9,
+            "GA": 2,
+            "GD": "+7",
+            "Pts": 7
+        },
+        {
+            "Pos": 2,
+            "Team": "United States",
+            "Pld": 3,
+            "W": 1,
+            "D": 2,
+            "L": 0,
+            "GF": 2,
+            "GA": 1,
+            "GD": "+1",
+            "Pts": 5
+        },
+        {
+            "Pos": 3,
+            "Team": "Iran",
+            "Pld": 3,
+            "W": 1,
+            "D": 0,
+            "L": 2,
+            "GF": 4,
+            "GA": 7,
+            "GD": "\u22123",
+            "Pts": 3
+        },
+        {
+            "Pos": 4,
+            "Team": "Wales",
+            "Pld": 3,
+            "W": 0,
+            "D": 1,
+            "L": 2,
+            "GF": 1,
+            "GA": 6,
+            "GD": "\u22125",
+            "Pts": 1
+        }
+    ],
+    "Grupo C": [
+        {
+            "Pos": 1,
+            "Team": "Argentina",
+            "Pld": 3,
+            "W": 2,
+            "D": 0,
+            "L": 1,
+            "GF": 5,
+            "GA": 2,
+            "GD": "+3",
+            "Pts": 6
+        },
+        {
+            "Pos": 2,
+            "Team": "Poland",
+            "Pld": 3,
+            "W": 1,
+            "D": 1,
+            "L": 1,
+            "GF": 2,
+            "GA": 2,
+            "GD": "0",
+            "Pts": 4
+        },
+        {
+            "Pos": 3,
+            "Team": "Mexico",
+            "Pld": 3,
+            "W": 1,
+            "D": 1,
+            "L": 1,
+            "GF": 2,
+            "GA": 3,
+            "GD": "\u22121",
+            "Pts": 4
+        },
+        {
+            "Pos": 4,
+            "Team": "Saudi Arabia",
+            "Pld": 3,
+            "W": 1,
+            "D": 0,
+            "L": 2,
+            "GF": 3,
+            "GA": 5,
+            "GD": "\u22122",
+            "Pts": 3
+        }
+    ],
+    "Grupo D": [
+        {
+            "Pos": 1,
+            "Team": "France",
+            "Pld": 3,
+            "W": 2,
+            "D": 0,
+            "L": 1,
+            "GF": 6,
+            "GA": 3,
+            "GD": "+3",
+            "Pts": 6
+        },
+        {
+            "Pos": 2,
+            "Team": "Australia",
+            "Pld": 3,
+            "W": 2,
+            "D": 0,
+            "L": 1,
+            "GF": 3,
+            "GA": 4,
+            "GD": "\u22121",
+            "Pts": 6
+        },
+        {
+            "Pos": 3,
+            "Team": "Tunisia",
+            "Pld": 3,
+            "W": 1,
+            "D": 1,
+            "L": 1,
+            "GF": 1,
+            "GA": 1,
+            "GD": "0",
+            "Pts": 4
+        },
+        {
+            "Pos": 4,
+            "Team": "Denmark",
+            "Pld": 3,
+            "W": 0,
+            "D": 1,
+            "L": 2,
+            "GF": 1,
+            "GA": 3,
+            "GD": "\u22122",
+            "Pts": 1
+        }
+    ],
+    "Grupo E": [
+        {
+            "Pos": 1,
+            "Team": "Japan",
+            "Pld": 3,
+            "W": 2,
+            "D": 0,
+            "L": 1,
+            "GF": 4,
+            "GA": 3,
+            "GD": "+1",
+            "Pts": 6
+        },
+        {
+            "Pos": 2,
+            "Team": "Spain",
+            "Pld": 3,
+            "W": 1,
+            "D": 1,
+            "L": 1,
+            "GF": 9,
+            "GA": 3,
+            "GD": "+6",
+            "Pts": 4
+        },
+        {
+            "Pos": 3,
+            "Team": "Germany",
+            "Pld": 3,
+            "W": 1,
+            "D": 1,
+            "L": 1,
+            "GF": 6,
+            "GA": 5,
+            "GD": "+1",
+            "Pts": 4
+        },
+        {
+            "Pos": 4,
+            "Team": "Costa Rica",
+            "Pld": 3,
+            "W": 1,
+            "D": 0,
+            "L": 2,
+            "GF": 3,
+            "GA": 11,
+            "GD": "\u22128",
+            "Pts": 3
+        }
+    ],
+    "Grupo F": [
+        {
+            "Pos": 1,
+            "Team": "Morocco",
+            "Pld": 3,
+            "W": 2,
+            "D": 1,
+            "L": 0,
+            "GF": 4,
+            "GA": 1,
+            "GD": "+3",
+            "Pts": 7
+        },
+        {
+            "Pos": 2,
+            "Team": "Croatia",
+            "Pld": 3,
+            "W": 1,
+            "D": 2,
+            "L": 0,
+            "GF": 4,
+            "GA": 1,
+            "GD": "+3",
+            "Pts": 5
+        },
+        {
+            "Pos": 3,
+            "Team": "Belgium",
+            "Pld": 3,
+            "W": 1,
+            "D": 1,
+            "L": 1,
+            "GF": 1,
+            "GA": 2,
+            "GD": "\u22121",
+            "Pts": 4
+        },
+        {
+            "Pos": 4,
+            "Team": "Canada",
+            "Pld": 3,
+            "W": 0,
+            "D": 0,
+            "L": 3,
+            "GF": 2,
+            "GA": 7,
+            "GD": "\u22125",
+            "Pts": 0
+        }
+    ],
+    "Grupo G": [
+        {
+            "Pos": 1,
+            "Team": "Brazil",
+            "Pld": 3,
+            "W": 2,
+            "D": 0,
+            "L": 1,
+            "GF": 3,
+            "GA": 1,
+            "GD": "+2",
+            "Pts": 6
+        },
+        {
+            "Pos": 2,
+            "Team": "Switzerland",
+            "Pld": 3,
+            "W": 2,
+            "D": 0,
+            "L": 1,
+            "GF": 4,
+            "GA": 3,
+            "GD": "+1",
+            "Pts": 6
+        },
+        {
+            "Pos": 3,
+            "Team": "Cameroon",
+            "Pld": 3,
+            "W": 1,
+            "D": 1,
+            "L": 1,
+            "GF": 4,
+            "GA": 4,
+            "GD": "0",
+            "Pts": 4
+        },
+        {
+            "Pos": 4,
+            "Team": "Serbia",
+            "Pld": 3,
+            "W": 0,
+            "D": 1,
+            "L": 2,
+            "GF": 5,
+            "GA": 8,
+            "GD": "\u22123",
+            "Pts": 1
+        }
+    ],
+    "Grupo H": [
+        {
+            "Pos": 1,
+            "Team": "Portugal",
+            "Pld": 3,
+            "W": 2,
+            "D": 0,
+            "L": 1,
+            "GF": 6,
+            "GA": 4,
+            "GD": "+2",
+            "Pts": 6
+        },
+        {
+            "Pos": 2,
+            "Team": "South Korea",
+            "Pld": 3,
+            "W": 1,
+            "D": 1,
+            "L": 1,
+            "GF": 4,
+            "GA": 4,
+            "GD": "0",
+            "Pts": 4
+        },
+        {
+            "Pos": 3,
+            "Team": "Uruguay",
+            "Pld": 3,
+            "W": 1,
+            "D": 1,
+            "L": 1,
+            "GF": 2,
+            "GA": 2,
+            "GD": "0",
+            "Pts": 4
+        },
+        {
+            "Pos": 4,
+            "Team": "Ghana",
+            "Pld": 3,
+            "W": 1,
+            "D": 0,
+            "L": 2,
+            "GF": 5,
+            "GA": 7,
+            "GD": "\u22122",
+            "Pts": 3
+        }
+    ]
+}
